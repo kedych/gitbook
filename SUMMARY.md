@@ -5,5 +5,5 @@
 * [【柯P新政】](kp-cover.md)
    * [【柯P新政＃8】 公辦都更](youtube.md)
 * [End](end.md)
-* kedy_to_kedyems
+* [kedy_to_kedyems](kedyto_kedyems.md)
 
