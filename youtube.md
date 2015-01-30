@@ -1,6 +1,6 @@
 ```
 ```
-<iframe width="560" height="315" src="//www.youtube.com/embed/mla3lU9mFaY" frameborder="0" allowfullscreen></iframe>
+
 
 [在Youtube播放](http://www.youtube.com/watch?v=niqZliPDf7E)
 
@@ -80,3 +80,7 @@
 ###公辦都更的益處
 
 一直以來，一提到更新，人們腦中浮現的都是推倒重建蓋大樓，地主房地產大幅增值。這是市場驅動、建商主導的都市更新必然的結果。這種都市更新除了樓房變新之外，往往因為容積率增加，越更新越擁擠，公共設施越發不足，環境品質更差。如果使用柯文哲提的「公辦都更」，政府可將手中的可建築公有地當作更新轉移的新棲地，例如遷移後的松山機場，經過協調，在居民同意的條件下，原住戶可遷出，易地安置；而留下的舊建物，可根據區位、使用狀況，拆除建為公園，或當公共住宅，或建設其他公共設施。不僅可以把舊屋變公園，降低密度，改善環境品質，還可以分散公共住宅，避免標籤化效應。同時，沒有大規模推倒重建，也不會破壞鄰里網絡，真正做到更新與保存並容。
+
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/mla3lU9mFaY" frameborder="0" allowfullscreen></iframe>
+
