@@ -1,2 +1,3 @@
 # Slideshare Test
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/29754930" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jserv/education-usingopensource" title="中輟生談教育: 完全用開放原始碼軟體進行 嵌入式系統教學" target="_blank">中輟生談教育: 完全用開放原始碼軟體進行 嵌入式系統教學</a> </strong> from <strong><a href="//www.slideshare.net/jserv" target="_blank">Jim Huang</a></strong> </div>
