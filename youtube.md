@@ -2,6 +2,8 @@
 ```
 <iframe width="560" height="315" src="//www.youtube.com/embed/mla3lU9mFaY" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/78NQO-trB5w" frameborder="0" allowfullscreen></iframe>
+
 [在Youtube播放](http://www.youtube.com/watch?v=niqZliPDf7E)
 
  【柯P新政＃8】
